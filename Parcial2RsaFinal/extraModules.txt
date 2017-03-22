@@ -1,0 +1,2 @@
+instale el modulo de bitarray con pip3 install bitarray, para el RSA
+instale el modulo de numconv con pip3 install numconv, para el RSA

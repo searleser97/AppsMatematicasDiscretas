@@ -1,0 +1,1 @@
+intsale el modulo de bitarray en vaio con pip3 install bitarray, para el RSA

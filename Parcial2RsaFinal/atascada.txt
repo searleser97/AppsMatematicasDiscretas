@@ -1,0 +1,1457 @@
+aaaaaaaa beta = 0 alfa = 0
+
+aaaaaaaa beta = 1 alfa = 0
+
+aaaaaaaa beta = 2 alfa = 0
+
+aaaaaaaa beta = 3 alfa = 0
+
+aaaaaaaa beta = 4 alfa = 0
+
+aaaaaaaa beta = 5 alfa = 0
+
+aaaaaaaa beta = 6 alfa = 0
+
+aaaaaaaa beta = 7 alfa = 0
+
+aaaaaaaa beta = 8 alfa = 0
+
+aaaaaaaa beta = 9 alfa = 0
+
+aaaaaaaa beta = 10 alfa = 0
+
+aaaaaaaa beta = 11 alfa = 0
+
+aaaaaaaa beta = 12 alfa = 0
+
+aaaaaaaa beta = 13 alfa = 0
+
+aaaaaaaa beta = 14 alfa = 0
+
+aaaaaaaa beta = 15 alfa = 0
+
+aaaaaaaa beta = 16 alfa = 0
+
+aaaaaaaa beta = 17 alfa = 0
+
+aaaaaaaa beta = 18 alfa = 0
+
+aaaaaaaa beta = 19 alfa = 0
+
+aaaaaaaa beta = 20 alfa = 0
+
+aaaaaaaa beta = 21 alfa = 0
+
+aaaaaaaa beta = 22 alfa = 0
+
+aaaaaaaa beta = 23 alfa = 0
+
+aaaaaaaa beta = 24 alfa = 0
+
+aaaaaaaa beta = 25 alfa = 0
+
+aaaaaaaa beta = 26 alfa = 0
+
+dqdszdxd beta = 0 alfa = 1
+
+cpcrycwc beta = 1 alfa = 1
+
+bobqxbvb beta = 2 alfa = 1
+
+añapwaua beta = 3 alfa = 1
+
+znzovztz beta = 4 alfa = 1
+
+ymyñuysy beta = 5 alfa = 1
+
+xlxntxrx beta = 6 alfa = 1
+
+wkwmswqw beta = 7 alfa = 1
+
+vjvlrvpv beta = 8 alfa = 1
+
+uiukquou beta = 9 alfa = 1
+
+thtjptñt beta = 10 alfa = 1
+
+sgsiosns beta = 11 alfa = 1
+
+rfrhñrmr beta = 12 alfa = 1
+
+qeqgnqlq beta = 13 alfa = 1
+
+pdpfmpkp beta = 14 alfa = 1
+
+ocoelojo beta = 15 alfa = 1
+
+ñbñdkñiñ beta = 16 alfa = 1
+
+nancjnhn beta = 17 alfa = 1
+
+mzmbimgm beta = 18 alfa = 1
+
+lylahlfl beta = 19 alfa = 1
+
+kxkzgkek beta = 20 alfa = 1
+
+jwjyfjdj beta = 21 alfa = 1
+
+ivixeici beta = 22 alfa = 1
+
+huhwdhbh beta = 23 alfa = 1
+
+gtgvcgag beta = 24 alfa = 1
+
+fsfubfzf beta = 25 alfa = 1
+
+eretaeye beta = 26 alfa = 1
+
+ghglygug beta = 0 alfa = 2
+
+efejwese beta = 1 alfa = 2
+
+cdchucqc beta = 2 alfa = 2
+
+abafsaoa beta = 3 alfa = 2
+
+yzydqyny beta = 4 alfa = 2
+
+wxwbowlw beta = 5 alfa = 2
+
+uvuznuju beta = 6 alfa = 2
+
+stsxlshs beta = 7 alfa = 2
+
+qrqvjqfq beta = 8 alfa = 2
+
+opothodo beta = 9 alfa = 2
+
+nñnrfnbn beta = 10 alfa = 2
+
+lmlpdlzl beta = 11 alfa = 2
+
+jkjñbjxj beta = 12 alfa = 2
+
+hihmzhvh beta = 13 alfa = 2
+
+fgfkxftf beta = 14 alfa = 2
+
+dedivdrd beta = 15 alfa = 2
+
+bcbgtbpb beta = 16 alfa = 2
+
+zazerzñz beta = 17 alfa = 2
+
+xyxcpxmx beta = 18 alfa = 2
+
+vwvañvkv beta = 19 alfa = 2
+
+tutymtit beta = 20 alfa = 2
+
+rsrwkrgr beta = 21 alfa = 2
+
+pqpuipep beta = 22 alfa = 2
+
+ñoñsgñcñ beta = 23 alfa = 2
+
+mnmqemam beta = 24 alfa = 2
+
+klkockyk beta = 25 alfa = 2
+
+ijinaiwi beta = 26 alfa = 2
+
+jxjdxjrj beta = 0 alfa = 3
+
+gugaugog beta = 1 alfa = 3
+
+drdxrdmd beta = 2 alfa = 3
+
+aoauoaja beta = 3 alfa = 3
+
+xmxrmxgx beta = 4 alfa = 3
+
+ujuojudu beta = 5 alfa = 3
+
+rgrmgrar beta = 6 alfa = 3
+
+odojdoxo beta = 7 alfa = 3
+
+mamgamum beta = 8 alfa = 3
+
+jxjdxjrj beta = 9 alfa = 3
+
+gugaugog beta = 10 alfa = 3
+
+drdxrdmd beta = 11 alfa = 3
+
+aoauoaja beta = 12 alfa = 3
+
+xmxrmxgx beta = 13 alfa = 3
+
+ujuojudu beta = 14 alfa = 3
+
+rgrmgrar beta = 15 alfa = 3
+
+odojdoxo beta = 16 alfa = 3
+
+mamgamum beta = 17 alfa = 3
+
+jxjdxjrj beta = 18 alfa = 3
+
+gugaugog beta = 19 alfa = 3
+
+drdxrdmd beta = 20 alfa = 3
+
+aoauoaja beta = 21 alfa = 3
+
+xmxrmxgx beta = 22 alfa = 3
+
+ujuojudu beta = 23 alfa = 3
+
+rgrmgrar beta = 24 alfa = 3
+
+odojdoxo beta = 25 alfa = 3
+
+mamgamum beta = 26 alfa = 3
+
+mñmvwmom beta = 0 alfa = 4
+
+ikirsili beta = 1 alfa = 4
+
+egeñoehe beta = 2 alfa = 4
+
+acaklada beta = 3 alfa = 4
+
+wywghwzw beta = 4 alfa = 4
+
+suscdsvs beta = 5 alfa = 4
+
+oqoyzoro beta = 6 alfa = 4
+
+lnluvlñl beta = 7 alfa = 4
+
+hjhqrhkh beta = 8 alfa = 4
+
+dfdnñdgd beta = 9 alfa = 4
+
+zbzjkzcz beta = 10 alfa = 4
+
+vxvfgvyv beta = 11 alfa = 4
+
+rtrbcrur beta = 12 alfa = 4
+
+ñpñxyñqñ beta = 13 alfa = 4
+
+kmktuknk beta = 14 alfa = 4
+
+gigpqgjg beta = 15 alfa = 4
+
+cecmncfc beta = 16 alfa = 4
+
+yayijyby beta = 17 alfa = 4
+
+uwuefuxu beta = 18 alfa = 4
+
+qsqabqtq beta = 19 alfa = 4
+
+nonwxnpn beta = 20 alfa = 4
+
+jljstjmj beta = 21 alfa = 4
+
+fhfopfif beta = 22 alfa = 4
+
+bdblmbeb beta = 23 alfa = 4
+
+xzxhixax beta = 24 alfa = 4
+
+tvtdetwt beta = 25 alfa = 4
+
+prpzapsp beta = 26 alfa = 4
+
+oeoñvomo beta = 0 alfa = 5
+
+kzkjqkhk beta = 1 alfa = 5
+
+fufemfcf beta = 2 alfa = 5
+
+apazhaxa beta = 3 alfa = 5
+
+vlvucvsv beta = 4 alfa = 5
+
+qgqpxqñq beta = 5 alfa = 5
+
+mbmlsmjm beta = 6 alfa = 5
+
+hwhgñheh beta = 7 alfa = 5
+
+crcbjczc beta = 8 alfa = 5
+
+xnxwexux beta = 9 alfa = 5
+
+sisrzsps beta = 10 alfa = 5
+
+ñdñnuñlñ beta = 11 alfa = 5
+
+jyjipjgj beta = 12 alfa = 5
+
+etedlebe beta = 13 alfa = 5
+
+zozygzwz beta = 14 alfa = 5
+
+ukutburu beta = 15 alfa = 5
+
+pfpowpnp beta = 16 alfa = 5
+
+lalkrlil beta = 17 alfa = 5
+
+gvgfngdg beta = 18 alfa = 5
+
+bqbaibyb beta = 19 alfa = 5
+
+wmwvdwtw beta = 20 alfa = 5
+
+rhrqyror beta = 21 alfa = 5
+
+ncnmtnkn beta = 22 alfa = 5
+
+ixihoifi beta = 23 alfa = 5
+
+dsdckdad beta = 24 alfa = 5
+
+yñyxfyvy beta = 25 alfa = 5
+
+tjtsatqt beta = 26 alfa = 5
+
+rurgurjr beta = 0 alfa = 6
+
+momaomdm beta = 1 alfa = 6
+
+gjgujgxg beta = 2 alfa = 6
+
+adaodara beta = 3 alfa = 6
+
+uxujxumu beta = 4 alfa = 6
+
+orodrogo beta = 5 alfa = 6
+
+jmjxmjaj beta = 6 alfa = 6
+
+dgdrgdud beta = 7 alfa = 6
+
+xaxmaxox beta = 8 alfa = 6
+
+rurgurjr beta = 9 alfa = 6
+
+momaomdm beta = 10 alfa = 6
+
+gjgujgxg beta = 11 alfa = 6
+
+adaodara beta = 12 alfa = 6
+
+uxujxumu beta = 13 alfa = 6
+
+orodrogo beta = 14 alfa = 6
+
+jmjxmjaj beta = 15 alfa = 6
+
+dgdrgdud beta = 16 alfa = 6
+
+xaxmaxox beta = 17 alfa = 6
+
+rurgurjr beta = 18 alfa = 6
+
+momaomdm beta = 19 alfa = 6
+
+gjgujgxg beta = 20 alfa = 6
+
+adaodara beta = 21 alfa = 6
+
+uxujxumu beta = 22 alfa = 6
+
+orodrogo beta = 23 alfa = 6
+
+jmjxmjaj beta = 24 alfa = 6
+
+dgdrgdud beta = 25 alfa = 6
+
+xaxmaxox beta = 26 alfa = 6
+
+uluytugu beta = 0 alfa = 7
+
+ñeñrnñzñ beta = 1 alfa = 7
+
+hxhlghsh beta = 2 alfa = 7
+
+aqaezama beta = 3 alfa = 7
+
+tktxstft beta = 4 alfa = 7
+
+ndnqmnyn beta = 5 alfa = 7
+
+gwgkfgrg beta = 6 alfa = 7
+
+zpzdyzlz beta = 7 alfa = 7
+
+sjswrses beta = 8 alfa = 7
+
+mcmplmxm beta = 9 alfa = 7
+
+fvfjefqf beta = 10 alfa = 7
+
+yoycxyky beta = 11 alfa = 7
+
+rirvqrdr beta = 12 alfa = 7
+
+lbloklwl beta = 13 alfa = 7
+
+eueidepe beta = 14 alfa = 7
+
+xñxbwxjx beta = 15 alfa = 7
+
+qhqupqcq beta = 16 alfa = 7
+
+kakñjkvk beta = 17 alfa = 7
+
+dtdhcdod beta = 18 alfa = 7
+
+wnwavwiw beta = 19 alfa = 7
+
+pgptopbp beta = 20 alfa = 7
+
+jzjnijuj beta = 21 alfa = 7
+
+cscgbcñc beta = 22 alfa = 7
+
+vmvzuvhv beta = 23 alfa = 7
+
+ofosñoao beta = 24 alfa = 7
+
+iyimhiti beta = 25 alfa = 7
+
+brbfabnb beta = 26 alfa = 7
+
+xbxqsxdx beta = 0 alfa = 8
+
+ptpjlpvp beta = 1 alfa = 8
+
+imibdiñi beta = 2 alfa = 8
+
+aeatvaga beta = 3 alfa = 8
+
+swsmñsys beta = 4 alfa = 8
+
+loleglql beta = 5 alfa = 8
+
+dhdwydjd beta = 6 alfa = 8
+
+vzvoqvbv beta = 7 alfa = 8
+
+ñrñhjñtñ beta = 8 alfa = 8
+
+gkgzbgmg beta = 9 alfa = 8
+
+ycyrtyey beta = 10 alfa = 8
+
+quqkmqwq beta = 11 alfa = 8
+
+jnjcejoj beta = 12 alfa = 8
+
+bfbuwbhb beta = 13 alfa = 8
+
+txtnotzt beta = 14 alfa = 8
+
+mpmfhmrm beta = 15 alfa = 8
+
+eiexzeke beta = 16 alfa = 8
+
+wawprwcw beta = 17 alfa = 8
+
+osoikouo beta = 18 alfa = 8
+
+hlhachnh beta = 19 alfa = 8
+
+zdzsuzfz beta = 20 alfa = 8
+
+rvrlnrxr beta = 21 alfa = 8
+
+kñkdfkpk beta = 22 alfa = 8
+
+cgcvxcic beta = 23 alfa = 8
+
+uyuñpuau beta = 24 alfa = 8
+
+nqnginsn beta = 25 alfa = 8
+
+fjfyaflf beta = 26 alfa = 8
+
+arajraaa beta = 0 alfa = 9
+
+rjrajrrr beta = 1 alfa = 9
+
+jajrajjj beta = 2 alfa = 9
+
+arajraaa beta = 3 alfa = 9
+
+rjrajrrr beta = 4 alfa = 9
+
+jajrajjj beta = 5 alfa = 9
+
+arajraaa beta = 6 alfa = 9
+
+rjrajrrr beta = 7 alfa = 9
+
+jajrajjj beta = 8 alfa = 9
+
+arajraaa beta = 9 alfa = 9
+
+rjrajrrr beta = 10 alfa = 9
+
+jajrajjj beta = 11 alfa = 9
+
+arajraaa beta = 12 alfa = 9
+
+rjrajrrr beta = 13 alfa = 9
+
+jajrajjj beta = 14 alfa = 9
+
+arajraaa beta = 15 alfa = 9
+
+rjrajrrr beta = 16 alfa = 9
+
+jajrajjj beta = 17 alfa = 9
+
+arajraaa beta = 18 alfa = 9
+
+rjrajrrr beta = 19 alfa = 9
+
+jajrajjj beta = 20 alfa = 9
+
+arajraaa beta = 21 alfa = 9
+
+rjrajrrr beta = 22 alfa = 9
+
+jajrajjj beta = 23 alfa = 9
+
+arajraaa beta = 24 alfa = 9
+
+rjrajrrr beta = 25 alfa = 9
+
+jajrajjj beta = 26 alfa = 9
+
+didbqdxd beta = 0 alfa = 10
+
+tytrhtñt beta = 1 alfa = 10
+
+kokixkek beta = 2 alfa = 10
+
+afayñaua beta = 3 alfa = 10
+
+qvqoeqlq beta = 4 alfa = 10
+
+hmhfuhbh beta = 5 alfa = 10
+
+xcxvlxrx beta = 6 alfa = 10
+
+ñsñmbñiñ beta = 7 alfa = 10
+
+ejecreye beta = 8 alfa = 10
+
+uzusiuou beta = 9 alfa = 10
+
+lpljylfl beta = 10 alfa = 10
+
+bgbzobvb beta = 11 alfa = 10
+
+rwrpfrmr beta = 12 alfa = 10
+
+inigvici beta = 13 alfa = 10
+
+ydywmysy beta = 14 alfa = 10
+
+otoncojo beta = 15 alfa = 10
+
+fkfdsfzf beta = 16 alfa = 10
+
+vavtjvpv beta = 17 alfa = 10
+
+mqmkzmgm beta = 18 alfa = 10
+
+chcapcwc beta = 19 alfa = 10
+
+sxsqgsns beta = 20 alfa = 10
+
+jñjhwjdj beta = 21 alfa = 10
+
+zezxnztz beta = 22 alfa = 10
+
+pupñdpkp beta = 23 alfa = 10
+
+glgetgag beta = 24 alfa = 10
+
+wbwukwqw beta = 25 alfa = 10
+
+nrnlanhn beta = 26 alfa = 10
+
+gygtpgug beta = 0 alfa = 11
+
+vñvjfvkv beta = 1 alfa = 11
+
+ldlyulzl beta = 2 alfa = 11
+
+asañkaoa beta = 3 alfa = 11
+
+pipdzpep beta = 4 alfa = 11
+
+fxfsoftf beta = 5 alfa = 11
+
+unuieuju beta = 6 alfa = 11
+
+kckxtkyk beta = 7 alfa = 11
+
+zrznjzñz beta = 8 alfa = 11
+
+ohocyodo beta = 9 alfa = 11
+
+ewerñese beta = 10 alfa = 11
+
+tmthdtit beta = 11 alfa = 11
+
+jbjwsjxj beta = 12 alfa = 11
+
+yqymiyny beta = 13 alfa = 11
+
+ñgñbxñcñ beta = 14 alfa = 11
+
+dvdqndrd beta = 15 alfa = 11
+
+slsgcshs beta = 16 alfa = 11
+
+iaivriwi beta = 17 alfa = 11
+
+xpxlhxmx beta = 18 alfa = 11
+
+nfnawnbn beta = 19 alfa = 11
+
+cucpmcqc beta = 20 alfa = 11
+
+rkrfbrgr beta = 21 alfa = 11
+
+hzhuqhvh beta = 22 alfa = 11
+
+wowkgwlw beta = 23 alfa = 11
+
+memzvmam beta = 24 alfa = 11
+
+btbolbpb beta = 25 alfa = 11
+
+qjqeaqfq beta = 26 alfa = 11
+
+jojmojrj beta = 0 alfa = 12
+
+xdxadxgx beta = 1 alfa = 12
+
+mrmormum beta = 2 alfa = 12
+
+agadgaja beta = 3 alfa = 12
+
+ouoruoxo beta = 4 alfa = 12
+
+djdgjdmd beta = 5 alfa = 12
+
+rxruxrar beta = 6 alfa = 12
+
+gmgjmgog beta = 7 alfa = 12
+
+uauxaudu beta = 8 alfa = 12
+
+jojmojrj beta = 9 alfa = 12
+
+xdxadxgx beta = 10 alfa = 12
+
+mrmormum beta = 11 alfa = 12
+
+agadgaja beta = 12 alfa = 12
+
+ouoruoxo beta = 13 alfa = 12
+
+djdgjdmd beta = 14 alfa = 12
+
+rxruxrar beta = 15 alfa = 12
+
+gmgjmgog beta = 16 alfa = 12
+
+uauxaudu beta = 17 alfa = 12
+
+jojmojrj beta = 18 alfa = 12
+
+xdxadxgx beta = 19 alfa = 12
+
+mrmormum beta = 20 alfa = 12
+
+agadgaja beta = 21 alfa = 12
+
+ouoruoxo beta = 22 alfa = 12
+
+djdgjdmd beta = 23 alfa = 12
+
+rxruxrar beta = 24 alfa = 12
+
+gmgjmgog beta = 25 alfa = 12
+
+uauxaudu beta = 26 alfa = 12
+
+mfmeñmom beta = 0 alfa = 13
+
+zszrbzcz beta = 1 alfa = 13
+
+ngnfonpn beta = 2 alfa = 13
+
+atascada beta = 3 alfa = 13
+
+ñhñgpñqñ beta = 4 alfa = 13
+
+bubtdbeb beta = 5 alfa = 13
+
+oiohqoro beta = 6 alfa = 13
+
+cvcuecfc beta = 7 alfa = 13
+
+pjpirpsp beta = 8 alfa = 13
+
+dwdvfdgd beta = 9 alfa = 13
+
+qkqjsqtq beta = 10 alfa = 13
+
+exewgehe beta = 11 alfa = 13
+
+rlrktrur beta = 12 alfa = 13
+
+fyfxhfif beta = 13 alfa = 13
+
+smslusvs beta = 14 alfa = 13
+
+gzgyigjg beta = 15 alfa = 13
+
+tntmvtwt beta = 16 alfa = 13
+
+hahzjhkh beta = 17 alfa = 13
+
+uñunwuxu beta = 18 alfa = 13
+
+ibiakili beta = 19 alfa = 13
+
+vovñxvyv beta = 20 alfa = 13
+
+jcjbljmj beta = 21 alfa = 13
+
+wpwoywzw beta = 22 alfa = 13
+
+kdkcmknk beta = 23 alfa = 13
+
+xqxpzxax beta = 24 alfa = 13
+
+leldnlñl beta = 25 alfa = 13
+
+yryqayby beta = 26 alfa = 13
+
+ovownomo beta = 0 alfa = 14
+
+bibjzbyb beta = 1 alfa = 14
+
+ñuñvmñlñ beta = 2 alfa = 14
+
+ahaiyaxa beta = 3 alfa = 14
+
+ntnulnkn beta = 4 alfa = 14
+
+zgzhxzwz beta = 5 alfa = 14
+
+msmtkmjm beta = 6 alfa = 14
+
+yfygwyvy beta = 7 alfa = 14
+
+lrlsjlil beta = 8 alfa = 14
+
+xexfvxux beta = 9 alfa = 14
+
+kqkrikhk beta = 10 alfa = 14
+
+wdweuwtw beta = 11 alfa = 14
+
+jpjqhjgj beta = 12 alfa = 14
+
+vcvdtvsv beta = 13 alfa = 14
+
+ioipgifi beta = 14 alfa = 14
+
+ubucsuru beta = 15 alfa = 14
+
+hñhofheh beta = 16 alfa = 14
+
+tatbrtqt beta = 17 alfa = 14
+
+gngñegdg beta = 18 alfa = 14
+
+szsaqsps beta = 19 alfa = 14
+
+fmfndfcf beta = 20 alfa = 14
+
+ryrzpror beta = 21 alfa = 14
+
+elemcebe beta = 22 alfa = 14
+
+qxqyoqñq beta = 23 alfa = 14
+
+dkdlbdad beta = 24 alfa = 14
+
+pwpxñpnp beta = 25 alfa = 14
+
+cjckaczc beta = 26 alfa = 14
+
+rmromrjr beta = 0 alfa = 15
+
+dxdaxdud beta = 1 alfa = 15
+
+ojomjogo beta = 2 alfa = 15
+
+auaxuara beta = 3 alfa = 15
+
+mgmjgmdm beta = 4 alfa = 15
+
+xrxurxox beta = 5 alfa = 15
+
+jdjgdjaj beta = 6 alfa = 15
+
+uouroumu beta = 7 alfa = 15
+
+gagdagxg beta = 8 alfa = 15
+
+rmromrjr beta = 9 alfa = 15
+
+dxdaxdud beta = 10 alfa = 15
+
+ojomjogo beta = 11 alfa = 15
+
+auaxuara beta = 12 alfa = 15
+
+mgmjgmdm beta = 13 alfa = 15
+
+xrxurxox beta = 14 alfa = 15
+
+jdjgdjaj beta = 15 alfa = 15
+
+uouroumu beta = 16 alfa = 15
+
+gagdagxg beta = 17 alfa = 15
+
+rmromrjr beta = 18 alfa = 15
+
+dxdaxdud beta = 19 alfa = 15
+
+ojomjogo beta = 20 alfa = 15
+
+auaxuara beta = 21 alfa = 15
+
+mgmjgmdm beta = 22 alfa = 15
+
+xrxurxox beta = 23 alfa = 15
+
+jdjgdjaj beta = 24 alfa = 15
+
+uouroumu beta = 25 alfa = 15
+
+gagdagxg beta = 26 alfa = 15
+
+ucuhlugu beta = 0 alfa = 16
+
+fnfrvfqf beta = 1 alfa = 16
+
+pxpcgpbp beta = 2 alfa = 16
+
+aianqama beta = 3 alfa = 16
+
+lslxblwl beta = 4 alfa = 16
+
+vdvimvhv beta = 5 alfa = 16
+
+gñgswgrg beta = 6 alfa = 16
+
+qyqdhqcq beta = 7 alfa = 16
+
+bjbñrbnb beta = 8 alfa = 16
+
+mtmycmxm beta = 9 alfa = 16
+
+wewjnwiw beta = 10 alfa = 16
+
+hohtxhsh beta = 11 alfa = 16
+
+rzreirdr beta = 12 alfa = 16
+
+ckcoscñc beta = 13 alfa = 16
+
+nunzdnyn beta = 14 alfa = 16
+
+xfxkñxjx beta = 15 alfa = 16
+
+ipiuyiti beta = 16 alfa = 16
+
+sasfjses beta = 17 alfa = 16
+
+dldptdod beta = 18 alfa = 16
+
+ñvñaeñzñ beta = 19 alfa = 16
+
+ygyloyky beta = 20 alfa = 16
+
+jqjvzjuj beta = 21 alfa = 16
+
+tbtgktft beta = 22 alfa = 16
+
+emequepe beta = 23 alfa = 16
+
+owobfoao beta = 24 alfa = 16
+
+zhzmpzlz beta = 25 alfa = 16
+
+krkwakvk beta = 26 alfa = 16
+
+xsxzkxdx beta = 0 alfa = 17
+
+hchjthnh beta = 1 alfa = 17
+
+qmqsdqwq beta = 2 alfa = 17
+
+avacnaga beta = 3 alfa = 17
+
+kfkmwkpk beta = 4 alfa = 17
+
+totvgtzt beta = 5 alfa = 17
+
+dydfpdjd beta = 6 alfa = 17
+
+ninoznsn beta = 7 alfa = 17
+
+wrwyjwcw beta = 8 alfa = 17
+
+gbgisgmg beta = 9 alfa = 17
+
+plprcpvp beta = 10 alfa = 17
+
+zuzbmzfz beta = 11 alfa = 17
+
+jejlvjoj beta = 12 alfa = 17
+
+sñsufsys beta = 13 alfa = 17
+
+cxceocic beta = 14 alfa = 17
+
+mhmñymrm beta = 15 alfa = 17
+
+vqvxivbv beta = 16 alfa = 17
+
+fafhrflf beta = 17 alfa = 17
+
+okoqbouo beta = 18 alfa = 17
+
+ytyalyey beta = 19 alfa = 17
+
+idikuiñi beta = 20 alfa = 17
+
+rnrterxr beta = 21 alfa = 17
+
+bwbdñbhb beta = 22 alfa = 17
+
+lglnxlql beta = 23 alfa = 17
+
+upuwhuau beta = 24 alfa = 17
+
+ezegqeke beta = 25 alfa = 17
+
+ñjñpañtñ beta = 26 alfa = 17
+
+ajarjaaa beta = 0 alfa = 18
+
+jrjarjjj beta = 1 alfa = 18
+
+rarjarrr beta = 2 alfa = 18
+
+ajarjaaa beta = 3 alfa = 18
+
+jrjarjjj beta = 4 alfa = 18
+
+rarjarrr beta = 5 alfa = 18
+
+ajarjaaa beta = 6 alfa = 18
+
+jrjarjjj beta = 7 alfa = 18
+
+rarjarrr beta = 8 alfa = 18
+
+ajarjaaa beta = 9 alfa = 18
+
+jrjarjjj beta = 10 alfa = 18
+
+rarjarrr beta = 11 alfa = 18
+
+ajarjaaa beta = 12 alfa = 18
+
+jrjarjjj beta = 13 alfa = 18
+
+rarjarrr beta = 14 alfa = 18
+
+ajarjaaa beta = 15 alfa = 18
+
+jrjarjjj beta = 16 alfa = 18
+
+rarjarrr beta = 17 alfa = 18
+
+ajarjaaa beta = 18 alfa = 18
+
+jrjarjjj beta = 19 alfa = 18
+
+rarjarrr beta = 20 alfa = 18
+
+ajarjaaa beta = 21 alfa = 18
+
+jrjarjjj beta = 22 alfa = 18
+
+rarjarrr beta = 23 alfa = 18
+
+ajarjaaa beta = 24 alfa = 18
+
+jrjarjjj beta = 25 alfa = 18
+
+rarjarrr beta = 26 alfa = 18
+
+dzdkidxd beta = 0 alfa = 19
+
+lhlrplfl beta = 1 alfa = 19
+
+soszxsns beta = 2 alfa = 19
+
+awahfaua beta = 3 alfa = 19
+
+ieionici beta = 4 alfa = 19
+
+pmpwupkp beta = 5 alfa = 19
+
+xtxecxrx beta = 6 alfa = 19
+
+fbfmkfzf beta = 7 alfa = 19
+
+njntrnhn beta = 8 alfa = 19
+
+uqubzuou beta = 9 alfa = 19
+
+cycjhcwc beta = 10 alfa = 19
+
+kgkqokek beta = 11 alfa = 19
+
+rñrywrmr beta = 12 alfa = 19
+
+zvzgeztz beta = 13 alfa = 19
+
+hdhñmhbh beta = 14 alfa = 19
+
+olovtojo beta = 15 alfa = 19
+
+wswdbwqw beta = 16 alfa = 19
+
+eaeljeye beta = 17 alfa = 19
+
+mimsqmgm beta = 18 alfa = 19
+
+tptaytñt beta = 19 alfa = 19
+
+bxbigbvb beta = 20 alfa = 19
+
+jfjpñjdj beta = 21 alfa = 19
+
+qnqxvqlq beta = 22 alfa = 19
+
+yuyfdysy beta = 23 alfa = 19
+
+gcgnlgag beta = 24 alfa = 19
+
+ñkñusñiñ beta = 25 alfa = 19
+
+vrvcavpv beta = 26 alfa = 19
+
+gpgchgug beta = 0 alfa = 20
+
+nwnjñnbn beta = 1 alfa = 20
+
+tdtputit beta = 2 alfa = 20
+
+akawbaoa beta = 3 alfa = 20
+
+hqhdihvh beta = 4 alfa = 20
+
+ñxñkoñcñ beta = 5 alfa = 20
+
+ueuqvuju beta = 6 alfa = 20
+
+blbxcbpb beta = 7 alfa = 20
+
+iriejiwi beta = 8 alfa = 20
+
+oyolpodo beta = 9 alfa = 20
+
+vfvrwvkv beta = 10 alfa = 20
+
+cmcydcqc beta = 11 alfa = 20
+
+jsjfkjxj beta = 12 alfa = 20
+
+pzpmqpep beta = 13 alfa = 20
+
+wgwsxwlw beta = 14 alfa = 20
+
+dndzedrd beta = 15 alfa = 20
+
+ktkglkyk beta = 16 alfa = 20
+
+qaqnrqfq beta = 17 alfa = 20
+
+xhxtyxmx beta = 18 alfa = 20
+
+eñeafese beta = 19 alfa = 20
+
+lulhmlzl beta = 20 alfa = 20
+
+rbrñsrgr beta = 21 alfa = 20
+
+yiyuzyny beta = 22 alfa = 20
+
+fofbgftf beta = 23 alfa = 20
+
+mvminmam beta = 24 alfa = 20
+
+scsotshs beta = 25 alfa = 20
+
+zjzvazñz beta = 26 alfa = 20
+
+jgjugjrj beta = 0 alfa = 21
+
+omoamoxo beta = 1 alfa = 21
+
+urugrudu beta = 2 alfa = 21
+
+axamxaja beta = 3 alfa = 21
+
+gdgrdgog beta = 4 alfa = 21
+
+mjmxjmum beta = 5 alfa = 21
+
+rordorar beta = 6 alfa = 21
+
+xuxjuxgx beta = 7 alfa = 21
+
+dadoadmd beta = 8 alfa = 21
+
+jgjugjrj beta = 9 alfa = 21
+
+omoamoxo beta = 10 alfa = 21
+
+urugrudu beta = 11 alfa = 21
+
+axamxaja beta = 12 alfa = 21
+
+gdgrdgog beta = 13 alfa = 21
+
+mjmxjmum beta = 14 alfa = 21
+
+rordorar beta = 15 alfa = 21
+
+xuxjuxgx beta = 16 alfa = 21
+
+dadoadmd beta = 17 alfa = 21
+
+jgjugjrj beta = 18 alfa = 21
+
+omoamoxo beta = 19 alfa = 21
+
+urugrudu beta = 20 alfa = 21
+
+axamxaja beta = 21 alfa = 21
+
+gdgrdgog beta = 22 alfa = 21
+
+mjmxjmum beta = 23 alfa = 21
+
+rordorar beta = 24 alfa = 21
+
+xuxjuxgx beta = 25 alfa = 21
+
+dadoadmd beta = 26 alfa = 21
+
+mwmnfmom beta = 0 alfa = 22
+
+qbqrkqtq beta = 1 alfa = 22
+
+vgvwovyv beta = 2 alfa = 22
+
+alabtada beta = 3 alfa = 22
+
+fpfgyfif beta = 4 alfa = 22
+
+kukldknk beta = 5 alfa = 22
+
+ozopioro beta = 6 alfa = 22
+
+tetuntwt beta = 7 alfa = 22
+
+yjyzryby beta = 8 alfa = 22
+
+dñdewdgd beta = 9 alfa = 22
+
+isijbili beta = 10 alfa = 22
+
+nxnñgnpn beta = 11 alfa = 22
+
+rcrslrur beta = 12 alfa = 22
+
+whwxpwzw beta = 13 alfa = 22
+
+bmbcubeb beta = 14 alfa = 22
+
+gqghzgjg beta = 15 alfa = 22
+
+lvlmelñl beta = 16 alfa = 22
+
+papqjpsp beta = 17 alfa = 22
+
+ufuvñuxu beta = 18 alfa = 22
+
+zkzaszcz beta = 19 alfa = 22
+
+eoefxehe beta = 20 alfa = 22
+
+jtjkcjmj beta = 21 alfa = 22
+
+ñyñohñqñ beta = 22 alfa = 22
+
+sdstmsvs beta = 23 alfa = 22
+
+xixyqxax beta = 24 alfa = 22
+
+cncdvcfc beta = 25 alfa = 22
+
+hrhiahkh beta = 26 alfa = 22
+
+onofeomo beta = 0 alfa = 23
+
+sqsjisps beta = 1 alfa = 23
+
+wuwnmwtw beta = 2 alfa = 23
+
+ayaqpaxa beta = 3 alfa = 23
+
+eceutebe beta = 4 alfa = 23
+
+igiyxifi beta = 5 alfa = 23
+
+mkmcbmjm beta = 6 alfa = 23
+
+pñpgfpnp beta = 7 alfa = 23
+
+trtkjtqt beta = 8 alfa = 23
+
+xvxñnxux beta = 9 alfa = 23
+
+bzbrqbyb beta = 10 alfa = 23
+
+fdfvufcf beta = 11 alfa = 23
+
+jhjzyjgj beta = 12 alfa = 23
+
+nlndcnkn beta = 13 alfa = 23
+
+qoqhgqñq beta = 14 alfa = 23
+
+usulkuru beta = 15 alfa = 23
+
+ywyoñyvy beta = 16 alfa = 23
+
+cacsrczc beta = 17 alfa = 23
+
+gegwvgdg beta = 18 alfa = 23
+
+kikazkhk beta = 19 alfa = 23
+
+ñmñedñlñ beta = 20 alfa = 23
+
+rprihror beta = 21 alfa = 23
+
+vtvmlvsv beta = 22 alfa = 23
+
+zxzpozwz beta = 23 alfa = 23
+
+dbdtsdad beta = 24 alfa = 23
+
+hfhxwheh beta = 25 alfa = 23
+
+ljlbalil beta = 26 alfa = 23
+
+rdrxdrjr beta = 0 alfa = 24
+
+uguagumu beta = 1 alfa = 24
+
+xjxdjxox beta = 2 alfa = 24
+
+amagmara beta = 3 alfa = 24
+
+dodjodud beta = 4 alfa = 24
+
+grgmrgxg beta = 5 alfa = 24
+
+jujoujaj beta = 6 alfa = 24
+
+mxmrxmdm beta = 7 alfa = 24
+
+oaouaogo beta = 8 alfa = 24
+
+rdrxdrjr beta = 9 alfa = 24
+
+uguagumu beta = 10 alfa = 24
+
+xjxdjxox beta = 11 alfa = 24
+
+amagmara beta = 12 alfa = 24
+
+dodjodud beta = 13 alfa = 24
+
+grgmrgxg beta = 14 alfa = 24
+
+jujoujaj beta = 15 alfa = 24
+
+mxmrxmdm beta = 16 alfa = 24
+
+oaouaogo beta = 17 alfa = 24
+
+rdrxdrjr beta = 18 alfa = 24
+
+uguagumu beta = 19 alfa = 24
+
+xjxdjxox beta = 20 alfa = 24
+
+amagmara beta = 21 alfa = 24
+
+dodjodud beta = 22 alfa = 24
+
+grgmrgxg beta = 23 alfa = 24
+
+jujoujaj beta = 24 alfa = 24
+
+mxmrxmdm beta = 25 alfa = 24
+
+oaouaogo beta = 26 alfa = 24
+
+utupcugu beta = 0 alfa = 25
+
+wvwrewiw beta = 1 alfa = 25
+
+yxytgyky beta = 2 alfa = 25
+
+azaviama beta = 3 alfa = 25
+
+cbcxkcñc beta = 4 alfa = 25
+
+edezmepe beta = 5 alfa = 25
+
+gfgbñgrg beta = 6 alfa = 25
+
+ihidpiti beta = 7 alfa = 25
+
+kjkfrkvk beta = 8 alfa = 25
+
+mlmhtmxm beta = 9 alfa = 25
+
+ñnñjvñzñ beta = 10 alfa = 25
+
+poplxpbp beta = 11 alfa = 25
+
+rqrnzrdr beta = 12 alfa = 25
+
+tstobtft beta = 13 alfa = 25
+
+vuvqdvhv beta = 14 alfa = 25
+
+xwxsfxjx beta = 15 alfa = 25
+
+zyzuhzlz beta = 16 alfa = 25
+
+babwjbnb beta = 17 alfa = 25
+
+dcdyldod beta = 18 alfa = 25
+
+fefanfqf beta = 19 alfa = 25
+
+hghcohsh beta = 20 alfa = 25
+
+jijeqjuj beta = 21 alfa = 25
+
+lklgslwl beta = 22 alfa = 25
+
+nmniunyn beta = 23 alfa = 25
+
+oñokwoao beta = 24 alfa = 25
+
+qpqmyqcq beta = 25 alfa = 25
+
+srsñases beta = 26 alfa = 25
+
+xkxibxdx beta = 0 alfa = 26
+
+ylyjcyey beta = 1 alfa = 26
+
+zmzkdzfz beta = 2 alfa = 26
+
+analeaga beta = 3 alfa = 26
+
+bñbmfbhb beta = 4 alfa = 26
+
+cocngcic beta = 5 alfa = 26
+
+dpdñhdjd beta = 6 alfa = 26
+
+eqeoieke beta = 7 alfa = 26
+
+frfpjflf beta = 8 alfa = 26
+
+gsgqkgmg beta = 9 alfa = 26
+
+hthrlhnh beta = 10 alfa = 26
+
+iuismiñi beta = 11 alfa = 26
+
+jvjtnjoj beta = 12 alfa = 26
+
+kwkuñkpk beta = 13 alfa = 26
+
+lxlvolql beta = 14 alfa = 26
+
+mymwpmrm beta = 15 alfa = 26
+
+nznxqnsn beta = 16 alfa = 26
+
+ñañyrñtñ beta = 17 alfa = 26
+
+obozsouo beta = 18 alfa = 26
+
+pcpatpvp beta = 19 alfa = 26
+
+qdqbuqwq beta = 20 alfa = 26
+
+rercvrxr beta = 21 alfa = 26
+
+sfsdwsys beta = 22 alfa = 26
+
+tgtextzt beta = 23 alfa = 26
+
+uhufyuau beta = 24 alfa = 26
+
+vivgzvbv beta = 25 alfa = 26
+
+wjwhawcw beta = 26 alfa = 26

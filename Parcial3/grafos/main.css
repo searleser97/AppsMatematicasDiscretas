@@ -1,0 +1,11 @@
+#mynetwork {
+    width: 800px;
+    height: 500px;
+    border: 1px solid lightgray;
+    float: right;
+    margin-top: -200px;
+}
+
+#ciclos {
+	float: left;
+}

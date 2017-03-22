@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>Grafos</title>
+    <link href="node_modules/vis/dist/vis.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="main.css" type="text/css">
+</head>
+
+<body>
+    <center>
+        <h1>Programa que genera un grafo dada una tabla de adyacencia de magnitud NxN</h1>
+    </center>
+    <select id="tipoMatriz">
+        <option value="A">Adyacencia</option>
+        <!-- <option value="I">Incidencia</option> -->
+    </select>
+    <form action="javascript:void(0);" onsubmit="doTable()">
+        Ingrese N:
+        <input type="number" id="n">
+        <input type="submit" value="Generar Tabla">
+    </form>
+    <br>
+    <div id="divtabla"></div>
+    <input type="button" onclick="doGraph()" value="Generar Grafo" style="float: left;">
+    <br>
+    <br>
+    <div id="ciclos">
+        <ul id="listaciclos">
+        </ul>
+    </div>
+    <script src="node_modules/vis/dist/vis.js" type="text/javascript"></script>
+    <script src="main.js" type="text/javascript"></script>
+</body>
+
+</html>
