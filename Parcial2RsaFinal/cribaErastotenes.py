@@ -1,6 +1,8 @@
 from math import sqrt
+from numba import jit
 
 
+@jit
 def cribaEr(N):
     arr = [None] * (N + 1)
     primos = []
@@ -31,3 +33,7 @@ def cribaEr(N):
         if (arr[k]):
             primos.append(k)
     return primos
+
+
+if __name__ == '__main__':
+    print(cribaEr(int(input())))

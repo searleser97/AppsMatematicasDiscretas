@@ -1,5 +1,4 @@
 import isPrime
-from math import sqrt
 
 
 def primefactors(n, primesList):
