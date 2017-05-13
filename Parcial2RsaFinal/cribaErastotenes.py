@@ -1,11 +1,9 @@
 from math import sqrt
-from numba import jit
 
 
-@jit
 def cribaEr(N):
     arr = [None] * (N + 1)
-    primos = []
+    primos = [1]
 
     arr[2] = True
     arr[3] = True

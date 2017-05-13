@@ -9,9 +9,8 @@
 from math import sqrt
 # from numba import jit
 
+
 # @jit(target='cpu')
-
-
 def isprime(n):
     if n == 2 or n == 3:
         return True
@@ -31,3 +30,7 @@ def isprime(n):
         w = 6 - w
 
     return True
+
+
+if __name__ == '__main__':
+    print(isprime(int(input())))
