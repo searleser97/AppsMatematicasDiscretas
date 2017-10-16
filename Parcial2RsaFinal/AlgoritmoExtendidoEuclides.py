@@ -22,3 +22,12 @@ def euclidesExtendido(a, b):
         yprevio = y
         y = auxy
     return a, xprevio, yprevio
+
+
+while True:
+    try:
+        a, b = map(int, input().split())
+        gcd, x, y = euclidesExtendido(a, b)
+        print(x, y, gcd)
+    except:
+        break
